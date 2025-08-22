@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I'm Chathurani Nimesha
 
-<!--
-**chathurani-nimesha/chathurani-nimesha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year Computing & Information Systems Student at Sabaragamuwa University  
+💻 Interested in Software Engineering, Fullstack Development
+✨ I love building projects that solve real-world problems  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Languages: C
+- Web: HTML, CSS
+- Tools: Git, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+- [GitHub Status](https://github-readme-stats.vercel.app/api?username=chathurani-nimesha&show_icons=true&theme=radical)
+
+## 🌐 Connect with me
+- [LinkedIn](www.linkedin.com/in/chathurani-nimesha)
+
+
+
