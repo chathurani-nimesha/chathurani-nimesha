@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chathurani Nimesha Thuduwage</h1>
-<h3 align="center">A Passionate Full Stack Developer from Sri Lanka</h3>
+<h3 align="center">A Passionate Software Engineer from Sri Lanka</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chathurani-nimesha&label=Profile%20Views&color=0e75b6&style=flat" alt="chathurani-nimesha" />
@@ -17,14 +17,15 @@
   </a>
 </p>
 
----
+
 
 ## 🌱 About Me
 - 💻 I’m currently learning **React, Node.js, and Object-Oriented Programming (OOP)**
-- 🎨 I have a passion for **clean UI/UX design and front-end development**
-- 📫 How to reach me: **[chathunimesha389@gmail.com](mailto:chathunimesha389@gmail.com)**
+- 🎨 I have a passion for **clean UI/UX design, front-end development, and backend development**
+- 🚀 I I enjoy turning design ideas into interactive experiences.
+- 📫 Reach me at: **[chathunimesha389@gmail.com](mailto:chathunimesha389@gmail.com)**
 
----
+
 
 ## 🔗 Connect with Me
 <p align="center">
@@ -39,7 +40,7 @@
   </a>
 </p>
 
----
+
 
 ## 🛠 Languages & Tools
 <p align="center">
@@ -56,7 +57,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40" />
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -64,12 +65,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chathurani-nimesha&layout=compact&theme=radical" />
 </p>
 
----
+
 
 ## 💫 Fun Fact
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FF5733&center=true&vCenter=true&width=600&lines=I+love+coding+%F0%9F%92%BB;Always+learning+new+tech;Building+awesome+projects" />
 </p>
 
----
+
 
