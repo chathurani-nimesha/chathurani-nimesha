@@ -20,7 +20,7 @@
 
 
 ## 🌱 About Me
-- 💻 I’m currently learning **React, Node.js, and Object-Oriented Programming (OOP)**
+- 💻 I’m currently learning **React, golang, and Object-Oriented Programming (OOP)**
 - 🎨 I have a passion for **clean UI/UX design, front-end development, and backend development**
 - 🚀 I I enjoy turning design ideas into interactive experiences.
 - 📫 Reach me at: **[chathunimesha389@gmail.com](mailto:chathunimesha389@gmail.com)**
