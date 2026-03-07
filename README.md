@@ -1,4 +1,4 @@
-![This is my background image.](D:\photoes\Linkedin Coverphoto.png)
+![This is my background image.](images/myProfile.png)
 <h1 align="center">Hi 👋, I'm Chathurani Nimesha Thuduwage</h1>
 <h3 align="center">A Passionate Software Engineer from Sri Lanka</h3>
 
