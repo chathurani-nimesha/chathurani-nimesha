@@ -1,6 +1,7 @@
 ![This is my background image.](images/myProfile.png)
-<h1 align="center">Hi 👋, I'm Chathurani Nimesha Thuduwage</h1>
+<h1 align="center">Hi 👋, I'm Chathurani Thuduwage</h1>
 <h3 align="center">A Passionate Software Engineer from Sri Lanka</h3>
+<h6 align="center"><i>    Turning ideas into software solutions...</i></h6>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chathurani-nimesha&label=Profile%20Views&color=0e75b6&style=flat" alt="chathurani-nimesha" />
