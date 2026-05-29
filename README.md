@@ -22,7 +22,7 @@
 
 
 ## 🌱 About Me
-- 💻 I’m currently learning **React, golang, and Object-Oriented Programming (OOP)**
+- 💻 I’m currently learning **Java, PHP, and Object-Oriented Programming (OOP)**
 - 🎨 I have a passion for **clean UI/UX design, front-end development, and backend development**
 - 🚀 I I enjoy turning design ideas into interactive experiences.
 - 📫 Reach me at: **[chathunimesha389@gmail.com](mailto:chathunimesha389@gmail.com)**
@@ -37,9 +37,7 @@
   <a href="https://github.com/chathurani-nimesha" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
   </a>
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40"/>
-  </a>
+ 
 </p>
 
 
