@@ -23,7 +23,6 @@
 
 ## 🌱 About Me
 
-Hi there! I'm **Chathurani Nimesha** 👋  
 An enthusiastic undergraduate passionate about building impactful software and continuously improving my development skills.
 
 - 💻 Currently learning **Java, PHP, and Object-Oriented Programming (OOP)**
