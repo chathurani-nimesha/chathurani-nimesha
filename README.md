@@ -22,54 +22,55 @@
 
 
 ## 🌱 About Me
-- 💻 I’m currently learning **Java, PHP, and Object-Oriented Programming (OOP)**
-- 🎨 I have a passion for **clean UI/UX design, front-end development, and backend development**
-- 🚀 I I enjoy turning design ideas into interactive experiences.
-- 📫 Reach me at: **[chathunimesha389@gmail.com](mailto:chathunimesha389@gmail.com)**
 
+Hi there! I'm **Chathurani Nimesha** 👋  
+An enthusiastic undergraduate passionate about building impactful software and continuously improving my development skills.
 
+- 💻 Currently learning **Java, PHP, and Object-Oriented Programming (OOP)**
+- 🎨 Passionate about **UI/UX Design, Front-End Development, and Back-End Development**
+- 🚀 Love transforming creative ideas into **interactive and user-friendly experiences**
+- 📚 Always exploring new technologies and improving problem-solving skills
+- 🌟 Interested in **Software Engineering, Full-Stack Development, and Clean Code Practices**
+- 📫 Reach me at: **chathunimesha389@gmail.com**
 
-## 🔗 Connect with Me
+---
+
+## 🔗 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/chathurani-nimesha/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/chathurani-nimesha" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
   </a>
- 
 </p>
 
-
+---
 
 ## 🛠 Languages & Tools
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40" />
+
+<img src="https://skillicons.dev/icons?i=java,php,html,css,javascript,mysql,git,github,vscode" />
+
 </p>
 
+---
 
+## 📊 Current Focus
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chathurani-nimesha&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chathurani-nimesha&layout=compact&theme=radical" />
-</p>
+✨ Building projects to strengthen my software engineering skills  
+✨ Learning full-stack development concepts  
+✨ Contributing to open-source projects  
+✨ Improving UI/UX and problem-solving abilities  
 
+---
 
+## ⚡ Fun Fact
 
-## 💫 Fun Fact
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FF5733&center=true&vCenter=true&width=600&lines=I+love+coding+%F0%9F%92%BB;Always+learning+new+tech;Building+awesome+projects" />
+> I enjoy turning ideas into software and making designs come alive through code 🚀font=Fira+Code&size=24&duration=4000&pause=500&color=FF5733&center=true&vCenter=true&width=600&lines=I+love+coding+%F0%9F%92%BB;Always+learning+new+tech;Building+awesome+projects" />
 </p>
 
 
